@@ -23,8 +23,6 @@
     padding: 0;
 }
 
-<<<<<<< HEAD
-=======
 
 .gif-modal {
     left: 50%;
@@ -34,7 +32,6 @@
     transform: translateX(-50%) translateY(-50%);
 }
 
->>>>>>> modal2
 input {
     display: block;
     font-size: 22px;
