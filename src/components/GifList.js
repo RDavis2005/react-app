@@ -9,11 +9,7 @@ const GifList = (props) => {
   });
   
   return (
-<<<<<<< HEAD
-    <div className= "gif-list">{gifItems}</div>
-=======
     <div className="gif-list">{gifItems}</div>
->>>>>>> modal2
   );
 };
 
