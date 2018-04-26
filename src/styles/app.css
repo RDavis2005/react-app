@@ -12,7 +12,11 @@
     width: 100%;
 }
 
+<<<<<<< HEAD
 .gif-item {
+=======
+.gif-item img {
+>>>>>>> modal2
     width: 100%;
 }
 
@@ -23,6 +27,18 @@
     padding: 0;
 }
 
+<<<<<<< HEAD
+=======
+
+.gif-modal {
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+>>>>>>> modal2
 input {
     display: block;
     font-size: 22px;
